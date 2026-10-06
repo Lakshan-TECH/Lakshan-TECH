@@ -40,7 +40,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Mechanical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, interested in **robotics**, **mechanical design**, **automation** and **control systems**. I enjoy designing mechanisms in CAD, simulating them, and bringing them to life with embedded systems and PLC-based automation.
+I'm a **Mechanical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, passionate about **robotics** and **AI/ML**, with interests in **mechanical design**, **automation** and **control systems**. I enjoy designing mechanisms in CAD, simulating them, and bringing them to life with embedded systems and PLC-based automation.
 
 ---
 
@@ -84,6 +84,45 @@ A two-link planar robotic arm designed in SolidWorks, exported to MATLAB Simscap
 `SolidWorks` `MATLAB` `Simulink` `Simscape Multibody`
 
 🔗 **[View Project](https://github.com/Lakshan-TECH/two-link-robotic-arm-simscape)**
+
+---
+
+## 🚁 Foldable Quadcopter Design
+
+> **SolidWorks • CAD • Mechanism Design • Self-Training Project** (Apr 2026)
+
+A self-initiated project where I designed a complete foldable quadcopter drone in SolidWorks, built from scratch to develop my practical CAD and assembly design skills. The main challenge was a gear-driven folding arm mechanism that lets the arms fold in and out of the frame.
+
+### 🔹 Highlights
+
+- Aerodynamic body with ventilation slots, four motor housings with propellers, and an onboard camera
+- Gear-based folding arm mechanism (arm gears and a drive gear)
+- Parts modelled with extrudes, cuts, fillets and patterns
+- Full assembly using mates and constraints
+- Exploded view and a motion study with a rotary motor demonstrating the mechanism and propellers
+
+### 🛠 Technologies
+
+`SolidWorks` `3D CAD Modelling` `Assembly Design` `Motion Study` `Mechanism Design`
+
+---
+
+## 🏥 Automated Food & Medicine Delivery and Patient Assistance System
+
+> **Mechatronics • Embedded Systems • Robotics • IoT** (First-year team project, Nov 2025)
+
+An automated food and medicine delivery and patient assistance system designed to support hospital environments and ensure timely assistance for patients. Built as a team project at the Faculty of Engineering, University of Moratuwa.
+
+### 🔹 Highlights
+
+- Line-following delivery robot
+- Bluetooth-controlled Android application
+- Scheduled and manual delivery modes
+- Hands-on work in embedded systems, mobile app development and automation
+
+### 🛠 Technologies
+
+`Embedded Systems` `Line-Following Robot` `Bluetooth` `Android App` `Automation` `IoT`
 
 ---
 
