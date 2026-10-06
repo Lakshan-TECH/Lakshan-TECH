@@ -17,5 +17,5 @@ A two-link arm designed in SolidWorks, exported to MATLAB Simscape Multibody, an
 - Robot dynamics and trajectory planning
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-link
+- Email: Sasimohanluckshan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lakshan-sasimohan-168153343/
