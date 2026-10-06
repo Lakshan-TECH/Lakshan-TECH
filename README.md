@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Luckshan 👋
 
-<!--
-**Lakshan-TECH/Lakshan-TECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineering student at the University of Moratuwa, interested in robotics, mechanical design and control systems. I like turning CAD models into working simulations.
 
-Here are some ideas to get you started:
+## 🚀 Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Two-Link Planar Robotic Arm](https://github.com/Lakshan-TECH/two-link-robotic-arm-simscape)**
+A two-link arm designed in SolidWorks, exported to MATLAB Simscape Multibody, and simulated in Simulink with inverse kinematics and PID control. The project report is included in the repo.
+
+## 🔧 What I work with
+- **CAD:** SolidWorks
+- **Simulation:** MATLAB, Simulink, Simscape Multibody
+- **Topics:** Robotics, kinematics, PID control
+
+## 📚 Currently learning
+- Control system design and tuning
+- Robot dynamics and trajectory planning
+
+## 📫 Contact
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/your-link
