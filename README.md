@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Luckshan&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Luckshan&desc=Mechanical%20Engineering%20%7C%20Robotics%20%7C%20AI%2FML&descSize=20&descAlignY=60&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&duration=3500&color=38BDF8&center=true&vCenter=true&width=850&lines=Mechanical+Engineering+Undergraduate;Robotics+%26+Control+Systems;CAD+Design+%26+Simulation;MATLAB+%7C+Simulink+%7C+SolidWorks"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&duration=3500&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&lines=Mechanical+Engineering+Undergraduate;Robotics+%26+Control+Systems;CAD+Design+%26+Simulation;Embedded+Systems+%26+IoT;Passionate+about+AI+%26+Machine+Learning;MATLAB+%7C+Simulink+%7C+SolidWorks"
       alt="Typing SVG"
     />
   </a>
@@ -28,7 +28,7 @@
 </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
 
@@ -36,13 +36,13 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 👨‍💻 About Me
 
 I'm a **Mechanical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, passionate about **robotics** and **AI/ML**, with interests in **mechanical design**, **automation** and **control systems**. I enjoy designing mechanisms in CAD, simulating them, and bringing them to life with embedded systems and PLC-based automation.
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 🔬 Interests
 
@@ -52,16 +52,17 @@ I'm a **Mechanical Engineering undergraduate** at the **University of Moratuwa, 
 <img src="https://img.shields.io/badge/Kinematics%20%26%20Dynamics-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CAD%20Design-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Simulation-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-F59E0B?style=for-the-badge"/>
 </p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 🌱 Currently Learning
 
 - 🎛️ Control system design and PID tuning
 - 🦾 Robot dynamics and trajectory planning
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 🚀 Featured Projects
 
@@ -92,6 +93,11 @@ A two-link planar robotic arm designed in SolidWorks, exported to MATLAB Simscap
 > **SolidWorks • CAD • Mechanism Design • Self-Training Project** (Apr 2026)
 
 A self-initiated project where I designed a complete foldable quadcopter drone in SolidWorks, built from scratch to develop my practical CAD and assembly design skills. The main challenge was a gear-driven folding arm mechanism that lets the arms fold in and out of the frame.
+
+<p align="center">
+  <img src="Screenshot%202026-10-04%20124502.png" width="48%"/>
+  <img src="Screenshot%202026-10-04%20123706.png" width="48%"/>
+</p>
 
 ### 🔹 Highlights
 
@@ -124,7 +130,7 @@ An automated food and medicine delivery and patient assistance system designed t
 
 `Embedded Systems` `Line-Following Robot` `Bluetooth` `Android App` `Automation` `IoT`
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # ⚒️ Tech Stack
 
@@ -211,7 +217,7 @@ ESP32 • ESP8266 • STM32 • Embedded C • IoT • Sensor Integration
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 📊 GitHub Analytics
 
@@ -241,13 +247,15 @@ ESP32 • ESP8266 • STM32 • Embedded C • IoT • Sensor Integration
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshan-TECH&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 💡 Philosophy
 
-> *"Good engineering starts with understanding the problem, then building, testing and improving."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Good+engineering+starts+with+understanding+the+problem;Then+building%2C+testing+and+improving"/>
+</p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 📬 Contact
 
@@ -255,7 +263,7 @@ ESP32 • ESP8266 • STM32 • Embedded C • IoT • Sensor Integration
 - 💻 **GitHub:** https://github.com/Lakshan-TECH
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lakshan-sasimohan-168153343/
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
 
@@ -270,5 +278,5 @@ I'm interested in collaborating on projects related to:
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&animation=twinkling"/>
 </p>
