@@ -40,7 +40,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Mechanical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, interested in **robotics**, **mechanical design** and **control systems**. I enjoy designing mechanisms in CAD and bringing them to life through simulation.
+I'm a **Mechanical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, interested in **robotics**, **mechanical design**, **automation** and **control systems**. I enjoy designing mechanisms in CAD, simulating them, and bringing them to life with embedded systems and PLC-based automation.
 
 ---
 
@@ -91,19 +91,80 @@ A two-link planar robotic arm designed in SolidWorks, exported to MATLAB Simscap
 
 <div align="center">
 
-### 🎨 CAD & Engineering
+### 👨‍💻 Programming Languages
 
-<img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-
-### 🧮 Simulation & Programming
-
-<img src="https://skillicons.dev/icons?i=matlab" />
+<img src="https://skillicons.dev/icons?i=cpp,c,py,matlab" />
 
 <p>
 
-MATLAB • Simulink • Simscape Multibody
+C++ • C • Python • MATLAB
 
 </p>
+
+---
+
+### 🎨 CAD & 3D Design
+
+<p>
+<img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=freecad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solid%20Edge-009999?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
+
+<p>
+
+SolidWorks • AutoCAD • Fusion 360 • FreeCAD • Solid Edge • Blender
+
+</p>
+
+---
+
+### 🧪 Simulation & Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Simscape%20Multibody-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FlexSim-6A1B9A?style=for-the-badge"/>
+</p>
+
+<p>
+
+Ansys • MATLAB • Simulink • Simscape Multibody • FlexSim
+
+</p>
+
+---
+
+### 🏭 Automation & Instrumentation
+
+<p>
+<img src="https://img.shields.io/badge/PLC%20Programming-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black"/>
+</p>
+
+<p>
+
+PLC Programming • LabVIEW • PID Control
+
+</p>
+
+---
+
+### 🔌 Embedded Systems & IoT
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+<p>
+
+ESP32 • ESP8266 • STM32 • Embedded C • IoT • Sensor Integration
+
+</p>
+
+---
 
 ### 🧰 Tools
 
